@@ -6,6 +6,8 @@ A real-time global monitoring dashboard built entirely on free and public data s
 It aggregates conflict events, natural disasters, military activities, nuclear facilities, and strategic infrastructure across **27 layers**, providing an intelligence-grade visualization interface.
 No paid APIs are required.
 
+![alt tag](https://raw.githubusercontent.com/houalexdev/WorldMirror/main/demo.png)
+
 > A free, open-source global intelligence dashboard built entirely on public data. No paid APIs required.
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python\&logoColor=white)
